@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calci/static/css/main.80022821.css",
+    "main.js": "/calci/static/js/main.cd416835.js",
+    "static/media/moon.png": "/calci/static/media/moon.ed34e3ccb9cc98e025d1.png",
+    "static/media/sun.png": "/calci/static/media/sun.c083fc151ebd00ab40a2.png",
+    "index.html": "/calci/index.html",
+    "main.80022821.css.map": "/calci/static/css/main.80022821.css.map",
+    "main.cd416835.js.map": "/calci/static/js/main.cd416835.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80022821.css",
+    "static/js/main.cd416835.js"
+  ]
+}
